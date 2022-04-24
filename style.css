@@ -228,3 +228,7 @@ footer .buttons-wrapper {
   background: #0a9046;
 
 }
+
+input:invalid {
+  border: 1px solid #FF1010;
+}
